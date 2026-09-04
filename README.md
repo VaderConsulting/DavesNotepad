@@ -21,6 +21,10 @@ VB.NET MDI notepad that opens .txt files into child frmFile windows with a docke
 
 Open `DavesNotepad.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2008
