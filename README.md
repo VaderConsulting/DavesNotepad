@@ -27,6 +27,7 @@ Open `DavesNotepad.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `DavesNotepad`.
 - **Assembly copyright:** Copyright ©  2008
 
 ## License
